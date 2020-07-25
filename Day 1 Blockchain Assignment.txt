@@ -1,0 +1,32 @@
+Question 1:	What is your understanding of Blockchain?
+		-->Security
+		-->Trusty Community
+		-->Distributed DataBase, Which help for data immutable
+		-->Hacking is no posible
+		-->Data Integrity
+
+
+Question 2:	What is the core problem Blockchain trying to solve?
+		-->Authenticity
+		-->Security
+		-->Need of powerful third party for trust
+	
+	
+Question 3:	What are the few features which Blockchain will give you?
+		-->No Hacking
+		-->Huge Security Boost
+		-->Verifiable
+		-->Data Transparency
+		-->Decentralized
+
+
+Question 4:	What all things does a Block contain?
+		-->Block number
+		-->Previous Block Signature
+		-->Transaction Records
+		-->mining key
+
+
+Question 5:	How is the verifiability of Blockchain has been attained?
+		-->The same block data will be stored in many devices and the block Signature will be created simutaneously. The signature will not be changed in any device unless the data is alter. If the data alter in a device and the signature changed, the remaining devices signature wont be change. Using this we can verify the data is altered or not. This can be attained verifiability of blockchain.
+		-->A data will be stored across many device. This is helpful for verifiablity.
